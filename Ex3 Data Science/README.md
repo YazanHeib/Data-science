@@ -1,2 +1,2 @@
-# Ex 3 - Data Science 
+# Data Science - Ex 3
 This exercise predicts violent crime rates in U.S. neighborhoods using data from the Communities and Crime dataset. The tasks include cleaning the data, finding correlations, and creating models to predict crime rates. Two classification models, Random Forest and Decision Tree, are used to classify areas as high or low crime. The models are tested using accuracy, precision, recall, F1 score, and ROC curves. The required files are communities.data and communities.names.
